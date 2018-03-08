@@ -1,0 +1,8 @@
+*.pyc
+pinduoduo_multimedia_datas/
+*.jpg
+*.jpeg
+*.mp4
+*.png
+*.gif
+*.SS2
